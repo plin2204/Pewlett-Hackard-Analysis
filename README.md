@@ -8,17 +8,17 @@
 ## Challenge Overview
 To create the new list of potential mentors, who are eligible for retirement. The final query should return the potential mentor’s employee number, first and last name, their title, birth date and employment dates.
 
-The goals are to:
+The goals are to: <br />
 •	Use an ERD to understand relationships between SQL tables.
-![](EmployeeDB.PNG)
+![](EmployeeDB.PNG) <br />
 •	Create new tables in pgAdmin by using different joins.
   1. Number of titles Retiring
   2. Only the Most Recent Titles
-  3. Who’s Ready for a Mentor?
+  3. Who’s Ready for a Mentor? <br />
 •	Write basic- to intermediate-level SQL statements.
   1. INNER JOIN
   2. PARTITION BY
-  3. WHERE
+  3. WHERE <br />
 •	Export new tables to a CSV file.
   1. titles_retiring.csv
   2. recent_title_count.csv
