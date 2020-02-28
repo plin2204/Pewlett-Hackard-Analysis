@@ -17,12 +17,12 @@ The goals are to: <br />
   1. Number of titles Retiring
   2. Only the Most Recent Titles
   3. Who’s Ready for a Mentor? 
-<br />
+
 •	Write basic- to intermediate-level SQL statements.
   1. INNER JOIN
   2. PARTITION BY
   3. WHERE 
-<br />
+
 •	Export new tables to a CSV file.
   1. titles_retiring.csv
   2. recent_title_count.csv
