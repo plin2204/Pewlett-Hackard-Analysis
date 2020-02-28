@@ -10,7 +10,7 @@ To create the new list of potential mentors, who are eligible for retirement. Th
 
 The goals are to:
 •	Use an ERD to understand relationships between SQL tables.
-![](EmployeeDB.png)
+![](EmployeeDB.PNG)
 •	Create new tables in pgAdmin by using different joins.
   1. Number of titles Retiring
   2. Only the Most Recent Titles
