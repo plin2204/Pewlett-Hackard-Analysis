@@ -14,14 +14,14 @@ The goals are to: <br />
 ![](EmployeeDB.PNG) <br />
 <br />
 •	Create new tables in pgAdmin by using different joins.
-  1. Number of titles Retiring
-  2. Only the Most Recent Titles
-  3. Who’s Ready for a Mentor? 
+  1. Number of titles Retiring: to contain employee number, first and last name, title, from date, and salary. 
+  2. Only the Most Recent Titles: to exclude the rows of data containing duplicate names.
+  3. Who’s Ready for a Mentor: for only birth date in 1965, and only current employees being included.
 
 •	Write basic- to intermediate-level SQL statements.
-  1. INNER JOIN
-  2. PARTITION BY
-  3. WHERE 
+  1. INNER JOIN: to combine employees, titles, salaries for needed information. 
+  2. PARTITION BY: to distinguish first and last name.
+  3. WHERE: for specific birth date, and to date for current employees
 
 •	Export new tables to a CSV file.
   1. titles_retiring.csv
