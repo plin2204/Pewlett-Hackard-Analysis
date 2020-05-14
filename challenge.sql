@@ -1,4 +1,3 @@
--- module 7  challenge
 -- Part 1
 -- 1 Number of [titles] Retiring
 SELECT e.emp_no, e.first_name, e.last_name,
