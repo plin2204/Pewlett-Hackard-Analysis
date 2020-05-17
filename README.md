@@ -31,4 +31,4 @@ The goals are to: <br />
   2. *recent_title_count.csv*
   3. *ready_mentors.csv*
 ---
-The codes are in `challenge.sql`, `queries.sql`, and `schema.sql`.
+The codes are in [`challenge.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/challenge.sql), [`queries.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/queries.sql), and [`schema.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/schema.sql).
