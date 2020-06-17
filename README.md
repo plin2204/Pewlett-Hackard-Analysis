@@ -11,7 +11,7 @@ On Pewlett Hackard employee database, to create **ERD (entity relationship diagr
 ## Discussion
 Find out the new list of potential mentors, who are eligible for retirement. The final query should return the potential mentor’s employee number, first and last name, their title, birth date and employment dates.
 
-The codes are in [`challenge.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/challenge.sql), [`queries.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/queries.sql), and [`schema.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/schema.sql).
+The codes are in [`challenge.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/challenge.sql), [`queries.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/queries.sql), and [`schema.sql`](https://github.com/plin2204/Pewlett-Hackard-Analysis_SQL/blob/master/schema.sql) for reference.
 
 The goals are to: <br />
 <br />
